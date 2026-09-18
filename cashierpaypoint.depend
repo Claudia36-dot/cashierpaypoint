@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1789049629 source:c:\users\hp\documents\cashierpaypoint\main.cpp
+	<iostream>
+	<vector>
+	<iomanip>
+	<string>
+	<fstream>
+	<cstdlib>
+	<cctype>
+	<cstdio>
+	<windows.h>
+
