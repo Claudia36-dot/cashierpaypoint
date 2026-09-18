@@ -215,7 +215,7 @@ int main()
 
     cout << "\n\nFINAL CUSTOMER LIST";
     teller.displayReceipt();
-
+    // the customer's list
     cout << "\nPress Enter to print the receipt...";
 
     cin.ignore();
